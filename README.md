@@ -11,10 +11,6 @@ This Project is a Simple ReactJS Project which demonstrates the following
 
 The project Template can be used to build bigger projects
 
-## Live Application URL
-
-### https://pruthvirajp04.github.io/Simple-react-app
-This URL has the application deployed in
 
 ## Prerequisites
 
