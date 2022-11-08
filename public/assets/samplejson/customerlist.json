@@ -1,0 +1,16 @@
+[{
+	"id": 1,
+	"name": "Pruthviraj Patil",
+	"email": "pp@test.com",
+	"phone": "123456789"
+}, {
+	"id": 2,
+	"name": "Jeeya Shah",
+	"email": "jeeya@test.com",
+	"phone": "987654321"
+}, {
+	"id": 3,
+	"name": "Sahil Rana",
+	"email": "sahil@test.com",
+	"phone": "123412345"
+}]
